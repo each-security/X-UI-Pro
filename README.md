@@ -16,7 +16,7 @@
 **Install X-UI-PRO**:dvd::package:
 
 ```
-sudo su -c "bash <(wget -qO- https://raw.githubusercontent.com/each-security/X-UI-Pro/master/x-ui-pro.sh) -install yes -panel 0"
+sudo su -c "bash <(wget -qO- https://raw.githubusercontent.com/each-security/X-UI-Pro/main/x-ui-pro.sh) -install yes -panel 0"
 ```
 > -panel 0>alireza 1>MHSanaei 2>FranzKafkaYu
 > 
@@ -28,33 +28,33 @@ sudo su -c "bash <(wget -qO- https://raw.githubusercontent.com/each-security/X-U
 >
 **ADD New Domain**:heavy_plus_sign:	
 ```
-sudo su -c "bash <(wget -qO- https://raw.githubusercontent.com/each-security/X-UI-Pro/master/install.sh) -subdomain sub.newdomain.com"
+sudo su -c "bash <(wget -qO- https://raw.githubusercontent.com/each-security/X-UI-Pro/main/install.sh) -subdomain sub.newdomain.com"
 ```
 
 **Random Fake HTMLSite**:earth_asia:	
 ```
-sudo su -c "bash <(wget -qO- https://raw.githubusercontent.com/each-security/X-UI-Pro/master/fakehtml.sh)"
+sudo su -c "bash <(wget -qO- https://raw.githubusercontent.com/each-security/X-UI-Pro/main/fakehtml.sh)"
 ```
 
 **Uninstall X-UI-PRO**:x:
 ```
-sudo su -c "bash <(wget -qO- https://raw.githubusercontent.com/each-security/X-UI-Pro/master/install.sh) -uninstall yes"
+sudo su -c "bash <(wget -qO- https://raw.githubusercontent.com/each-security/X-UI-Pro/main/install.sh) -uninstall yes"
 ```
 
 ➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
 ### Server Configuration :wrench:🐧⚙️
 ![](https://raw.githubusercontent.com/each-security/X-UI-Pro/main/media/adminconfig.jpg)
-![](https://raw.githubusercontent.com/each-security/X-UI-Pro/master/media/trojan_grpc_admin.png)
+![](https://raw.githubusercontent.com/each-security/X-UI-Pro/main/media/trojan_grpc_admin.png)
 ➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
 ### Client Configuration :white_check_mark:	:computer:🔌
-![](https://raw.githubusercontent.com/each-security/X-UI-Pro/master/media/client_config.png)
+![](https://raw.githubusercontent.com/each-security/X-UI-Pro/main/media/client_config.png)
 ➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
 ### Fix Error 403 (Forbidden)❗️❗️ Google
-![](https://raw.githubusercontent.com/each-security/X-UI-Pro/master/media/error403Google.png)
+![](https://raw.githubusercontent.com/each-security/X-UI-Pro/main/media/error403Google.png)
 > bash > x-ui
 > 
-![](https://raw.githubusercontent.com/each-security/X-UI-Pro/master/media/warp.png)
-![](https://raw.githubusercontent.com/each-security/X-UI-Pro/master/media/xui-warp.png)
+![](https://raw.githubusercontent.com/each-security/X-UI-Pro/main/media/warp.png)
+![](https://raw.githubusercontent.com/each-security/X-UI-Pro/main/media/xui-warp.png)
 ➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
 ### Cloudflare Find Good IP (VPN off❗ during scanning)
 Cloudflare IP Ranges: https://www.cloudflare.com/ips/
