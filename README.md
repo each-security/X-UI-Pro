@@ -16,7 +16,7 @@
 **Install X-UI-PRO**:dvd::package:
 
 ```
-sudo su -c "bash <(wget -qO- https://raw.githubusercontent.com/GFW4Fun/x-ui-pro/master/x-ui-pro.sh) -install yes -panel 0"
+sudo su -c "bash <(wget -qO- https://raw.githubusercontent.com/each-security/X-UI-Pro/master/x-ui-pro.sh) -install yes -panel 0"
 ```
 > -panel 0>alireza 1>MHSanaei 2>FranzKafkaYu
 > 
@@ -43,7 +43,7 @@ sudo su -c "bash <(wget -qO- https://raw.githubusercontent.com/each-security/X-U
 
 ➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
 ### Server Configuration :wrench:🐧⚙️
-![](https://raw.githubusercontent.com/each-security/X-UI_Pro/master/media/admin_config.png)
+![](https://raw.githubusercontent.com/each-security/X-UI_Pro/master/media/adminconfig.jpg)
 ![](https://raw.githubusercontent.com/each-security/X-UI-Pro/master/media/trojan_grpc_admin.png)
 ➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
 ### Client Configuration :white_check_mark:	:computer:🔌
