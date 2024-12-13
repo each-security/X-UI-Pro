@@ -28,17 +28,17 @@ sudo su -c "bash <(wget -qO- https://raw.githubusercontent.com/GFW4Fun/x-ui-pro/
 >
 **ADD New Domain**:heavy_plus_sign:	
 ```
-sudo su -c "bash <(wget -qO- https://raw.githubusercontent.com/GFW4Fun/x-ui-pro/master/x-ui-pro.sh) -subdomain sub.newdomain.com"
+sudo su -c "bash <(wget -qO- https://raw.githubusercontent.com/each-security/X-UI-Pro/master/install.sh) -subdomain sub.newdomain.com"
 ```
 
 **Random Fake HTMLSite**:earth_asia:	
 ```
-sudo su -c "bash <(wget -qO- https://raw.githubusercontent.com/each-security/X-UI-Pro/master/randomfakehtml.sh)"
+sudo su -c "bash <(wget -qO- https://raw.githubusercontent.com/each-security/X-UI-Pro/master/fakehtml.sh)"
 ```
 
 **Uninstall X-UI-PRO**:x:
 ```
-sudo su -c "bash <(wget -qO- https://raw.githubusercontent.com/each-security/X-UI-Pro/master/x-ui-pro.sh) -uninstall yes"
+sudo su -c "bash <(wget -qO- https://raw.githubusercontent.com/each-security/X-UI-Pro/master/install.sh) -uninstall yes"
 ```
 
 ➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
