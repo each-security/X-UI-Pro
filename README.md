@@ -43,7 +43,7 @@ sudo su -c "bash <(wget -qO- https://raw.githubusercontent.com/each-security/X-U
 
 ➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
 ### Server Configuration :wrench:🐧⚙️
-![](https://raw.githubusercontent.com/each-security/X-UI_Pro/master/media/adminconfig.jpg)
+![](https://raw.githubusercontent.com/each-security/X-UI_Pro/main/media/adminconfig.jpg)
 ![](https://raw.githubusercontent.com/each-security/X-UI-Pro/master/media/trojan_grpc_admin.png)
 ➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
 ### Client Configuration :white_check_mark:	:computer:🔌
